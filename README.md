@@ -1,5 +1,4 @@
 ## Hello, I'm Earnest 👋
-¸,ø¤º°`°º¤ø¤º°`°º¤ø,¸¸,ø¤º°`°º¤ø¤º°`°º¤ø,¸¸,ø¤º°`°º¤ø¤º°`°º¤ø,¸¸,ø¤º°`°º¤ø¤º°
 - 💻 Here to share my hands on labs, scripts & security analysis work. 
 - 🛠️ Building my skills & documenting the journey as I go. 
 - 🎓 B.A. in Studio Arts & certifications in data analytics. 
