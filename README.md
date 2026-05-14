@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Earnest here!</h1>
-<h3 align="center">🌟 Connect with me on <a href="https://www.linkedin.com/in/earnest-tavar/" target="_blank"><strong>LinkedIn. 🌟</strong></a></h3>
+<h3 align="center"💫 Connect with me on <a href="https://www.linkedin.com/in/earnest-tavar/" target="_blank"><strong>LinkedIn 💫</strong></a></h3>
 
 <p align="center">
   <img src="Background_Image.png" width="760">
@@ -19,4 +19,4 @@
   
 ==> I value clean workflows & improving a little everyday.
   
-==> In my off-time I enjoy watching horror movies, going on road trips & taking a nap 💤. 
+==> In my off-time I enjoy watching horror movies, going on road trips & taking a nap. 💤 
