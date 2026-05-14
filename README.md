@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Earnest here!</h1>
-<h3 align="center"> "+.+"+.+"+."+. Connect with me on <a href="https://www.linkedin.com/in/earnest-tavar/" target="_blank"><strong>LinkedIn "+.+"+.+"+."+.</strong></a></h3>
+<h3 align="center"> "+.+"+.+"+."+. Connect with me on <a href="https://www.linkedin.com/in/earnest-tavar/" target="_blank"><strong>LinkedIn +.+"+.+"+."+.</strong></a></h3>
 <br>
 
 ==> Here to share my hands on labs, scripts & security analysis work.
