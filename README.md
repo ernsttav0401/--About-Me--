@@ -2,13 +2,13 @@
 <h3 align="center"> 📧 Connect with me on <a href="https://www.linkedin.com/in/earnest-tavar/" target="_blank"><strong>LinkedIn 📧</strong></a></h3>
 <br>
 
+==> Here to share my hands on labs, scripts & security analysis work.
+
 ==> Currently a student in Correlation One’s Information Security Analyst Program.
 
-==> Aiming for a career as a SOC Analyst.
-  
-==> Here to share my hands on labs, scripts & security analysis work.
-  
 ==> Preparing for the CompTIA Security+ exam, scheduled for June 2026.
+
+==> Aiming for a career as a SOC Analyst.
   
 ==> Up next: Grow with Google Cybersecurity Certificate & the Microsoft SC‑900 to deepen my understanding of cloud security, IAM, and compliance fundamentals. 
 
@@ -16,5 +16,5 @@
   
 ==> I value clean workflows & improving a little everyday.
   
-==> In my off-time I enjoy watching horror movies, going on road trips & taking a nap. 💤 
-<img src="New_Background_Image.png" width="900" style="margin-bottom:-10 px; display:block; margin:auto;">
+==> In my off-time I enjoy watching horror movies, going on road trips & taking a nap. 
+<img src="Background_Image.png" width="900" style="margin-bottom:-10 px; display:block; margin:auto;">
