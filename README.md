@@ -16,7 +16,7 @@
   
 ==> I value clean workflows & improving a little everyday.
   
-==> In my off-time I enjoy watching horror movies, going on road trips & taking a nap. 
+==> On my off-time I enjoy watching horror movies, traveling, reading & taking naps. 
 
 <div align = "center">+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+."+.</div>
 
