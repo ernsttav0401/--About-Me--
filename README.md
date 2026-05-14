@@ -2,7 +2,7 @@
 <h3 align="center"> 💫 Connect with me on <a href="https://www.linkedin.com/in/earnest-tavar/" target="_blank"><strong>LinkedIn 💫</strong></a></h3>
 
 <p align="center">
-  <img src="Background_Image.png" width="760">
+  <img src="New_Background_Image.png" width="900">
 </p>
 
 ==> Currently a student in Correlation One’s Information Security Analyst Program.
