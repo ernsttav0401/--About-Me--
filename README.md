@@ -18,9 +18,8 @@
   
 ==> On my off-time I enjoy watching horror movies, traveling, reading & taking naps. 
 
-<div align = "center">+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+."+.</div>
+<div align = "center">ʙᴇ ɪɴᴛᴇɴᴛɪᴏɴᴀʟ & ᴘᴇʀsɪsᴛ ᴠᴀʀɪᴏᴜsʟʏ.</div>
 
 <p align="center" style="margin-top:-10px;">
   <img src="Cropped_Background_Image.png" width="760">
 </p>
-<div align = "center">+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+."+.</div>
