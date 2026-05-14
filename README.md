@@ -20,5 +20,5 @@
 <br>
 
 <p align="center">
-  <img src="Background_Image.png" width="760" style="margin-bottom:-10px;">
+  <img src="New_Background_Image.png" width="760" style="margin-bottom:-10px;">
 </p>
