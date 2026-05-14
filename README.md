@@ -17,4 +17,8 @@
 ==> I value clean workflows & improving a little everyday.
   
 ==> In my off-time I enjoy watching horror movies, going on road trips & taking a nap. 
-<img src="Background_Image.png" width="900" style="margin-bottom:-10 px; display:block; margin:auto;">
+<br>
+
+<p align="center">
+  <img src="Background_Image.png" width="760" style="margin-bottom:-10px;">
+</p>
