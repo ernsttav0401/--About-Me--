@@ -1,18 +1,22 @@
-<h1 align="center">Hello, I'm Earnest!</h1>
-<h3 align="center">📬 Connect with me on <a href="https://www.linkedin.com/in/earnest-tavar/" target="_blank"><strong>LinkedIn</strong></a></h3>
+<h1 align="center">Hello, Earnest here!</h1>
+<h3 align="center">🌟 Connect with me on <a href="https://www.linkedin.com/in/earnest-tavar/" target="_blank"><strong>LinkedIn. 🌟</strong></a></h3>
 
-![image alt](Background_Image.png)
+<p align="center">
+  <img src="Background_Image.png" width="760">
+</p>
 
-- 📚 Currently a student in Correlation 1’s Information Security Analyst Program.
+==> Currently a student in Correlation One’s Information Security Analyst Program.
+
+==> Aiming for a career as a SOC Analyst.
   
-- 💻 Here to share my hands on labs, scripts & security analysis work.
+==> Here to share my hands on labs, scripts & security analysis work.
   
-- 🛠️ Preparing for the CompTIA Security+ exam in June 2026.
+==> Preparing for the CompTIA Security+ exam, scheduled for June 2026.
   
-- 📖 Planning on taking the Grow with Google Cybersecurity Certification & Microsoft SC-900   certification next.
+==> Up next: Grow with Google Cybersecurity Certificate & the Microsoft SC‑900 to deepen my understanding of cloud security, IAM, and compliance fundamentals. 
+
+==> In the intermediate future, I plan to pursue the CySA+ certification. 
   
-- 💼 Aiming for a career as a SOC Analyst.
+==> I value clean workflows & improving a little everyday.
   
-- 🌟 I value clean workflows and improving a little everyday.
-  
-- 🔌 Off-time: watching horror movies, going on road trips & hiking. 
+==> In my off-time I enjoy watching horror movies, going on road trips & taking a nap 💤. 
