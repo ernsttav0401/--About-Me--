@@ -2,21 +2,18 @@
 <h3 align="center"> +.+"+.+"+."+. ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ ᴏɴ <a href="https://www.linkedin.com/in/earnest-tavar/" target="_blank"><strong>ʟɪɴᴋᴇᴅɪɴ</strong></a>."+.+"+.+"+."+.</h3>
 <br>
 
-==> Here to share my hands on labs, scripts & security analysis work.
+==> ʜᴇʀᴇ ᴛᴏ sʜᴀʀᴇ ᴍʏ ʜᴀɴᴅs-ᴏɴ ʟᴀʙs, sᴄʀɪᴘᴛs, ᴀɴᴅ sᴇᴄᴜʀɪᴛʏ ᴀɴᴀʟʏsɪs ᴡᴏʀᴋ. ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴀ sᴛᴜᴅᴇɴᴛ ɪɴ ᴄᴏʀʀᴇʟᴀᴛɪᴏɴ ᴏɴᴇ’s ɪɴғᴏʀᴍᴀᴛɪᴏɴ sᴇᴄᴜʀɪᴛʏ ᴀɴᴀʟʏsᴛ ᴘʀᴏɢʀᴀᴍ. ɪ’ᴍ ᴀʟsᴏ ᴘʀᴇᴘᴀʀɪɴɢ ᴛᴏ ᴛᴀᴋᴇ ᴛʜᴇ ᴄᴏᴍᴘᴛɪᴀ sᴇᴄᴜʀɪᴛʏ+ ᴇxᴀᴍ ɪɴ ᴊᴜɴᴇ 𝟸𝟶𝟸𝟼. 
 
-==> Currently a student in Correlation One’s Information Security Analyst Program.
+==> ᴇᴀʀɴɪɴɢ ᴛʜᴇ sᴇᴄᴜʀɪᴛʏ+ ᴄᴇʀᴛɪғɪᴄᴀᴛɪᴏɴ ᴅᴇᴍᴏɴsᴛʀᴀᴛᴇs ғᴏᴜɴᴅᴀᴛɪᴏɴᴀʟ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪɴ ᴄᴏʀᴇ ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ ғᴜɴᴄᴛɪᴏɴs ᴀɴᴅ sᴇʀᴠᴇs ᴀs ᴀ ʟᴀᴜɴᴄʜ ᴘᴏɪɴᴛ ғᴏʀ ᴅᴇᴇᴘᴇʀ sᴘᴇᴄɪᴀʟɪᴢᴀᴛɪᴏɴ. ᴍʏ ɢᴏᴀʟ ɪs ᴛᴏ ᴇɴᴛᴇʀ ᴛʜᴇ ғɪᴇʟᴅ ᴀs ᴀ sᴏᴄ ᴀɴᴀʟʏsᴛ ᴀɴᴅ ᴄᴏɴᴛɪɴᴜᴇ ᴛᴏ ɢʀᴏᴡ ᴛʜʀᴏᴜɢʜ ᴀᴅᴅɪᴛɪᴏɴᴀʟ ᴄᴇʀᴛɪғɪᴄᴀᴛɪᴏɴs.
 
-==> Preparing for the CompTIA Security+ exam, scheduled for June 2026.
-
-==> Aiming for a career as a SOC Analyst.
+==> ғᴜᴛᴜʀᴇ ᴄᴇʀᴛɪғɪᴄᴀᴛɪᴏɴ ɢᴏᴀʟs:
+  ✦ ɢʀᴏᴡ ᴡɪᴛʜ ɢᴏᴏɢʟᴇ ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ ᴄᴇʀᴛɪғɪᴄᴀᴛᴇ
+  ✦ ᴍɪᴄʀᴏsᴏғᴛ sᴄ-𝟿𝟶𝟶 ᴄᴇʀᴛɪғɪᴄᴀᴛᴇ
+  ✦ ᴄᴏᴍᴘᴛɪᴀ ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ ᴀɴᴀʟʏsᴛ (ᴄʏsᴀ+) ᴄᴇʀᴛɪғɪᴄᴀᴛᴇ
   
-==> Up next: Grow with Google Cybersecurity Certificate & the Microsoft SC‑900 to deepen my understanding of cloud security, IAM, and compliance fundamentals. 
-
-==> In the intermediate future, I plan to pursue the CySA+ certification. 
+==> ᴍʏ ɢᴏᴀʟ ɪs ᴛᴏ ʙʀᴇᴀᴋ ᴅᴏᴡɴ ᴄᴏʀᴇ ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ ᴄᴏɴᴄᴇᴘᴛs ᴀɴᴅ sᴋɪʟʟs ɪ’ᴍ ʟᴇᴀʀɴɪɴɢ ɪɴᴛᴏ ᴄʟᴇᴀʀ, ᴇᴀsʏ-ᴛᴏ-ᴜɴᴅᴇʀsᴛᴀɴᴅ ᴇssᴀʏs. ɪ ᴡᴀɴᴛ ᴛᴏ sᴛʀᴇɴɢᴛʜᴇɴ ʙᴏᴛʜ ᴍʏ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴ sᴋɪʟʟs ᴀɴᴅ ᴍʏ ᴜɴᴅᴇʀsᴛᴀɴᴅɪɴɢ ᴏғ ᴄᴏʀᴇ sᴇᴄᴜʀɪᴛʏ ᴘʀɪɴᴄɪᴘʟᴇs. ɪ ʙᴇʟɪᴇᴠᴇ ᴛʜᴀᴛ ᴛᴇᴀᴄʜɪɴɢ ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ᴍᴏsᴛ ᴇғғᴇᴄᴛɪᴠᴇ ᴡᴀʏs ᴛᴏ ʟᴇᴀʀɴ.
   
-==> I value clean workflows & improving a little everyday.
-  
-==> On my off-time I enjoy watching horror movies, traveling, reading & taking naps. 
+==> ᴏᴜᴛsɪᴅᴇ ᴏғ ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ, ɪ ᴇɴᴊᴏʏ ᴡᴀᴛᴄʜɪɴɢ ʜᴏʀʀᴏʀ ᴍᴏᴠɪᴇs, ᴛʀᴀᴠᴇʟɪɴɢ (ᴍʏ ᴍᴏsᴛ ʀᴇᴄᴇɴᴛ ᴛʀɪᴘ ᴡᴀs ᴛᴏ sᴀɴ ғʀᴀɴᴄɪsᴄᴏ), ᴀɴᴅ ʀᴇᴀᴅɪɴɢ (ᴄᴜʀʀᴇɴᴛʟʏ ɪᴛ’ꜱ sᴄᴀʀʏ ʙᴏᴏᴋ ᴏғ ᴄʜʀɪsᴛᴍᴀs ʟᴏʀᴇ ʙʏ ᴛɪᴍ ʀᴀʏʙᴏʀɴ). ɪ ᴀʟsᴏ ᴀᴘᴘʀᴇᴄɪᴀᴛᴇ ᴀ ɢᴏᴏᴅ ɴᴀᴘ. 
 
 <p align="center" style="margin-top:-10px;">
   <img src="Cropped_Background_Image.png" width="760">
