@@ -33,3 +33,13 @@
 <p align="center" style="margin-top:-10px;">
   <img src="Cropped_Background_Image.png" width="760">
 </p>
+
+<div align="center">
+
+# ⟡ ᴄᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴꜱ ᴠᴀᴜʟᴛ ⟡
+
+</div>
+
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
+>
+W.I.P - add link to certification 
